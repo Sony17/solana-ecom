@@ -27,7 +27,11 @@
   font-size: 50px;
   font-weight: bold;
 }
-
+.logo{
+  border-radius: 2em;
+  width: 30%;
+  box-shadow: 0 4px 8px 0 rgb(247, 241, 241), 0 6px 20px 0 rgba(246, 242, 242, 0.963);
+}
 .sub-text {
   font-size: 25px;
 }
